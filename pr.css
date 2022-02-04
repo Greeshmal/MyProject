@@ -1,0 +1,30 @@
+div
+{
+    border:5px solid purple;
+    display: flex;
+    /*flex-direction: column-reverse; 
+     flex-direction: row-reverse; */
+   flex-wrap: wrap;
+     
+    
+    
+     
+     justify-content: space-evenly; 
+    /*height: 500px;
+     align-items: center; 
+    
+    
+   
+}
+
+
+/*p
+{
+    font-size:30px;
+    color: white;
+    background-color: red;
+    height: 200px;
+    width: 200px;
+   margin: 20px;
+   
+}*/
